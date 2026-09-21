@@ -92,7 +92,7 @@
 
 ## 📸 游戏内截图
 
-开发版本里的实机画面（以燕王慕容垂开局，第 1 回合）。
+开发版本里的实机画面（分别以燕王慕容垂、大秦天王苻坚开局，都是第 1 回合）。
 
 <table>
 <tr>
@@ -106,6 +106,14 @@
 <tr>
 <td><img src="images/shot_diplomacy_map.jpg" alt="外交地图"><br><sub>燕王眼里的天下：邺城里的苻丕、洛阳的苻晖、背后的丁零翟斌、东边的谢玄——<b>四面皆敌</b>。</sub></td>
 <td><img src="images/shot_court_yan.jpg" alt="燕的府署"><br><sub>燕的<b>府署</b>：慕容德、慕容农、封孚、余蔚、兰汗、崔宏开局各就其位；储君慕容宝。</sub></td>
+</tr>
+<tr>
+<td><img src="images/shot_fu_jian_details.jpg" alt="苻坚的人物面板"><br><sub>换一家：<b>苻坚 · 大秦天王</b>，同样 8 级开局，困守长安。</sub></td>
+<td><img src="images/shot_vassal_call_to_arms.jpg" alt="苻丕请求宗主参战"><br><sub>秦的第一回合：邺城里的<b>长乐公苻丕</b>打着“长乐王”旗来<b>请求宗主参战</b>，对抗慕容垂——不救，附庸就独立。</sub></td>
+</tr>
+<tr>
+<td><img src="images/shot_war_declared.jpg" alt="苻坚对翟斌宣战"><br><sub><b>苻坚对翟斌宣战</b>：幽州的王永也来求援，宗主只好向丁零宣战。外交事件里用的都是各人自己的立绘。</sub></td>
+<td></td>
 </tr>
 </table>
 
