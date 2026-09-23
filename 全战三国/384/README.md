@@ -120,7 +120,7 @@
 <td><img src="images/shot_faction_select_faces.jpg" alt="选派系界面：384 年的君主"><br><sub>自己的<b>开局存档</b>：选剧本界面是「公元 384」，列表头像、地图图钉、右上角的名字都是 384 年的君主和我们画的立绘。</sub></td>
 </tr>
 <tr>
-<td><img src="images/shot_jin_imperial_court.jpg" alt="晋的三公九卿"><br><sub>晋一开局就是<b>三公九卿</b>：录尚书事谢安、太傅、司徒、司空谢石、太尉谢琰，大鸿胪谢道韫、廷尉王献之、宗正司马道子……</sub></td>
+<td><img src="images/shot_jin_imperial_court.jpg" alt="晋的三公九卿"><br><sub>晋一开局就是<b>三公九卿</b>的皇宫府署（这张是按等级自动补满时的样子；现在按史实只封史书载明 384 年在任的四人：录尚书事谢安、司徒司马道子、尚书令谢石、中书令王献之，其余由玩家自己封）。</sub></td>
 <td><img src="images/shot_rank_panel_jin.jpg" alt="晋的等级阶梯与胜利条件"><br><sub>晋自己的<b>等级阶梯</b>：偏安 → 固本 → 北伐 → 克复 → 中兴；终极胜利要剪灭的是 384 年的几大强权（活着的显示君主立绘）。</sub></td>
 </tr>
 </table>
