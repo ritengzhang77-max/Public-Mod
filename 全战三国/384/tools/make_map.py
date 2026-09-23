@@ -55,19 +55,20 @@ FACTIONS = {
     "jin_beifu":            ("晋·北府", "#3FA7E0"),
     "jin_jingzhou_huan":    ("晋·荆州桓氏", "#8CC63F"),
     "jin_guangzhou":        ("晋·岭南", "#7ED6C1"),
+    "jin_ningzhou":         ("晋·宁州", "#1F7A4A"),
 }
 LEGEND = [
     [("秦 · 七镇皆为附庸", ["former_qin", "former_qin_guandong", "former_qin_bingzhou", "former_qin_youzhou", "former_qin_pingzhou",
                         "former_qin_qingzhou", "former_qin_luoyang", "former_qin_liangzhou"])],
     [("燕 · 附庸丁零", ["later_yan", "dingling_zhai"]), ("各自为战", ["western_yan", "later_qin", "dai_tuoba", "tiefu", "qifu_xianbei"])],
-    [("晋 · 三镇皆为附庸", ["eastern_jin", "jin_beifu", "jin_jingzhou_huan", "jin_guangzhou"])],
+    [("晋 · 四镇皆为附庸", ["eastern_jin", "jin_beifu", "jin_jingzhou_huan", "jin_guangzhou", "jin_ningzhou"])],
 ]
 # 都城（君主开局所在的城）：势力 id -> 城名
 CAPITALS = {
     "former_qin": "长安", "former_qin_guandong": "邺", "former_qin_bingzhou": "晋阳", "former_qin_youzhou": "蓟", "former_qin_pingzhou": "阳乐",
     "former_qin_qingzhou": "剧县", "former_qin_luoyang": "洛阳", "former_qin_liangzhou": "姑臧", "later_yan": "怀县", "dingling_zhai": "东平",
     "western_yan": "弘农", "later_qin": "三水", "dai_tuoba": "阴馆", "tiefu": "河阴", "qifu_xianbei": "金城", "eastern_jin": "建业",
-    "jin_beifu": "淮阴", "jin_jingzhou_huan": "江陵", "jin_guangzhou": "番禺",
+    "jin_beifu": "淮阴", "jin_jingzhou_huan": "江陵", "jin_guangzhou": "番禺", "jin_ningzhou": "味县",
 }
 SHOWN_AS = {"建业": "建康"}                      # 图上写 384 年的叫法
 PREFER = {"弘农": (0, -1), "怀县": (1, 0), "邺": (1, 0), "长安": (1, 0)}   # 都城名优先摆在标记的哪一侧
@@ -80,7 +81,7 @@ FACTION_LABELS = [
     ("former_qin_luoyang", 112.5, 34.08, 10), ("former_qin_liangzhou", 102.1, 37.05, 12.5), ("later_yan", 115.9, 36.65, 19),
     ("dingling_zhai", 117.35, 36.3, 10.5), ("western_yan", 110.35, 36.2, 12.5), ("later_qin", 108.0, 37.3, 14), ("dai_tuoba", 113.3, 39.9, 16),
     ("tiefu", 108.5, 40.2, 14), ("qifu_xianbei", 104.4, 35.35, 13), ("eastern_jin", 116.7, 27.6, 25), ("jin_beifu", 121.35, 33.55, 13),
-    ("jin_jingzhou_huan", 111.3, 29.55, 14.5), ("jin_guangzhou", 110.0, 22.65, 15),
+    ("jin_jingzhou_huan", 111.3, 29.55, 14.5), ("jin_guangzhou", 110.0, 22.65, 15), ("jin_ningzhou", 103.0, 24.35, 14),
 ]
 
 # ---------------------------------------------------------------------------------------------- 手描的海岸与江河
@@ -289,7 +290,7 @@ def draw_legend(ax, labels, bold):
         x += width
     # 第三栏下半：日后入场
     x3 = lon0 + 0.22 + widths[0] + widths[1]
-    y = lat1 - 0.30 - row * 1.05 - row * 4 - row * 0.35
+    y = lat1 - 0.30 - row * 1.05 - row * len(LEGEND[2][0][1]) - row * 0.35
     ax.text(x3 * K, y, "日后入场", fontproperties=bold, fontsize=7.2, color="#d6b46e", va="center", zorder=9)
     for text in ("凉·吕氏：385 年，武威", "孙恩：399 年，会稽"):
         y -= row
@@ -320,7 +321,8 @@ def draw_legend(ax, labels, bold):
             ax.scatter([cx], [y], s=44, marker="x", c="#ffd166", linewidths=1.6, zorder=9)
         ax.text((x4 + 0.55) * K, y, text, fontsize=7.2, color="#c9c2b2", va="center", zorder=9)
         y -= row
-    ax.text((lon1 - 0.15) * K, lat0 + 0.18, "位置为按史地手工估算的示意，非游戏坐标", fontsize=6.4, color="#8f8a80", ha="right", va="center", zorder=9)
+    ax.text((lon1 - 0.15) * K, lat0 + 0.08, "位置为按史地手工估算的示意，\n非游戏坐标", fontsize=6.4, color="#8f8a80", ha="right", va="bottom",
+            linespacing=1.25, zorder=9)     # 两行：一行的话会碰到第三栏的「孙恩」
 
 
 # ---------------------------------------------------------------------------------------------- 画图
