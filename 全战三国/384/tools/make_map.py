@@ -55,7 +55,7 @@ FACTIONS = {
     "jin_beifu":            ("晋·北府", "#3FA7E0"),
     "jin_jingzhou_huan":    ("晋·荆州桓氏", "#8CC63F"),
     "jin_guangzhou":        ("晋·岭南", "#7ED6C1"),
-    "jin_ningzhou":         ("晋·宁州", "#1F7A4A"),
+    "jin_ningzhou":         ("晋·宁州爨氏", "#1F7A4A"),
 }
 LEGEND = [
     [("秦 · 七镇皆为附庸", ["former_qin", "former_qin_guandong", "former_qin_bingzhou", "former_qin_youzhou", "former_qin_pingzhou",
