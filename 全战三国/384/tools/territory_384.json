@@ -17,8 +17,8 @@
   {"name": "庐陵", "lon": 115.1, "lat": 26.6, "pass": false, "cities": [{"name": "雩都", "owner": "eastern_jin", "seat": true}, {"name": "扬都", "owner": "eastern_jin", "seat": false}]},
   {"name": "长沙", "lon": 112.95, "lat": 28.2, "pass": false, "cities": [{"name": "临湘", "owner": "eastern_jin", "seat": true}, {"name": "赤壁", "owner": "eastern_jin", "seat": false}, {"name": "酃县", "owner": "eastern_jin", "seat": false}, {"name": "茶陵", "owner": "eastern_jin", "seat": false}]},
   {"name": "零陵", "lon": 111.6, "lat": 26.4, "pass": false, "cities": [{"name": "泉陵", "owner": "eastern_jin", "seat": true}, {"name": "郴县", "owner": "eastern_jin", "seat": false}, {"name": "南平", "owner": "eastern_jin", "seat": false}, {"name": "工具铺", "owner": "eastern_jin", "seat": false}]},
-  {"name": "建宁", "lon": 103.8, "lat": 25.5, "pass": false, "cities": [{"name": "味县", "owner": "eastern_jin", "seat": true}, {"name": "滇池", "owner": "eastern_jin", "seat": false}, {"name": "谈稿", "owner": "eastern_jin", "seat": false}, {"name": "修云", "owner": "eastern_jin", "seat": false}]},
-  {"name": "牂牁", "lon": 107.0, "lat": 26.7, "pass": false, "cities": [{"name": "且兰", "owner": "eastern_jin", "seat": true}, {"name": "夜郎", "owner": "eastern_jin", "seat": false}, {"name": "毋敛", "owner": "eastern_jin", "seat": false}]},
+  {"name": "建宁", "lon": 103.8, "lat": 25.5, "pass": false, "cities": [{"name": "味县", "owner": "jin_ningzhou", "seat": true}, {"name": "滇池", "owner": "jin_ningzhou", "seat": false}, {"name": "谈稿", "owner": "jin_ningzhou", "seat": false}, {"name": "修云", "owner": "jin_ningzhou", "seat": false}]},
+  {"name": "牂牁", "lon": 107.0, "lat": 26.7, "pass": false, "cities": [{"name": "且兰", "owner": "jin_ningzhou", "seat": true}, {"name": "夜郎", "owner": "jin_ningzhou", "seat": false}, {"name": "毋敛", "owner": "jin_ningzhou", "seat": false}]},
   {"name": "虎牢关", "lon": 113.3, "lat": 34.7, "pass": true, "cities": [{"name": "虎牢关", "owner": "former_qin_luoyang", "seat": true}]},
   {"name": "濝关", "lon": 112.15, "lat": 35.32, "pass": true, "cities": [{"name": "濝关", "owner": "former_qin_luoyang", "seat": true}]},
   {"name": "洛阳", "lon": 112.45, "lat": 34.68, "pass": false, "cities": [{"name": "洛阳", "owner": "former_qin_luoyang", "seat": true, "lon": 112.45, "lat": 34.68}, {"name": "弘农", "owner": "western_yan", "seat": false, "lon": 110.95, "lat": 34.4}]},
@@ -82,8 +82,8 @@
   {"name": "函谷关", "lon": 111.7, "lat": 34.6, "pass": true, "cities": [{"name": "函谷关", "owner": "western_yan", "seat": true}]},
   {"name": "朔方", "lon": 108.6, "lat": 39.4, "pass": false, "cities": [{"name": "河阴", "owner": "tiefu", "seat": true}, {"name": "平定", "owner": "tiefu", "seat": false}, {"name": "大城", "owner": "tiefu", "seat": false}, {"name": "奢延", "owner": "tiefu", "seat": false}]},
   {"name": "武威", "lon": 102.64, "lat": 37.93, "pass": false, "cities": [{"name": "姑臧", "owner": "former_qin_liangzhou", "seat": true}, {"name": "休屠", "owner": "former_qin_liangzhou", "seat": false, "lon": 102.9, "lat": 38.45}, {"name": "灵州", "owner": "former_qin_liangzhou", "seat": false}]},
-  {"name": "云南", "lon": 101.25, "lat": 25.5, "pass": false, "cities": [{"name": "梇栋", "owner": null, "seat": true}, {"name": "青蛉", "owner": null, "seat": false}, {"name": "越巂", "owner": null, "seat": false}]},
-  {"name": "永昌", "lon": 99.17, "lat": 25.12, "pass": false, "cities": [{"name": "不韦", "owner": null, "seat": true}, {"name": "永寿", "owner": null, "seat": false}]},
+  {"name": "云南", "lon": 101.25, "lat": 25.5, "pass": false, "cities": [{"name": "梇栋", "owner": "jin_ningzhou", "seat": true}, {"name": "青蛉", "owner": "jin_ningzhou", "seat": false}, {"name": "越巂", "owner": "jin_ningzhou", "seat": false}]},
+  {"name": "永昌", "lon": 99.17, "lat": 25.12, "pass": false, "cities": [{"name": "不韦", "owner": "jin_ningzhou", "seat": true}, {"name": "永寿", "owner": "jin_ningzhou", "seat": false}]},
   {"name": "夷洲", "lon": 121.3, "lat": 24.6, "pass": false, "cities": [{"name": "淡水", "owner": null, "seat": true}, {"name": "赤嵌", "owner": null, "seat": false}]}
  ]
 }
