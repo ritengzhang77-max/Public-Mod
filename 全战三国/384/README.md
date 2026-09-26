@@ -42,6 +42,21 @@
 > **已在 Steam 创意工坊发布（0.11.0，2026-09-26）：[订阅「384 · 淝水之后 —— 十六国剧本」](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)。**
 > 需要《八王之乱》DLC；玩的时候开着 Steam；新开一局。不依赖任何其他 Mod，单独勾选这一个就能玩。
 
+### ▶ 一分钟看懂
+
+**[宣传片（64 秒，MP4，7 MB）](media/384_trailer_720p.mp4)**：开场动画的几幕，加上游戏里实录的选派系、大招召兵、火攻、史事将至。
+
+<table>
+<tr>
+<td width="50%"><img src="images/gif_zhaobing.gif" alt="大招「列人起兵」：选城、确认、新军出现"></td>
+<td width="50%"><img src="images/gif_event_choice.gif" alt="「史事将至」：点按史实，窗口原地变成结果"></td>
+</tr>
+<tr>
+<td align="center"><sub>燕的大招「列人起兵」：选一座自己的城，确认之后新军当即在城下集结</sub></td>
+<td align="center"><sub>「史事将至 · 慕容冲入长安」：点「按史实」，长安归西燕，窗口原地变成结果</sub></td>
+</tr>
+</table>
+
 <a id="about"></a>
 
 ## 🏯 这是什么
