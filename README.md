@@ -21,7 +21,7 @@
 
 淝水之战次年，前秦土崩，群雄并起。做在「八王之乱」战役上的公元 384 年大战役：22 个势力（20 家可选）、204 位历史人物（人人有立绘、五维和天赋）、逐城按史实划分的疆域、吕光东归与孙恩起事、每家一套“势”（含选城召兵、招贤、火攻等大招）、由玩家决定按不按史实的史实事件、一画一诗的开场。不依赖任何其他 Mod。
 
-**[下载（Steam 创意工坊）](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)** · [展示页](全战三国/384/README.md) · [势力](全战三国/384/docs/factions.md) · [疆域](全战三国/384/docs/territory.md) · [人物](全战三国/384/docs/characters.md) · [事件](全战三国/384/docs/events.md) · [制作方法论](全战三国/方法论/README.md)
+**[下载（Steam 创意工坊）](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)** · [展示页](全战三国/384/README.md) · [势力](全战三国/384/docs/factions.md) · [疆域](全战三国/384/docs/territory.md) · [人物](全战三国/384/docs/characters.md) · [事件](全战三国/384/docs/events.md)
 
 </td>
 </tr>
