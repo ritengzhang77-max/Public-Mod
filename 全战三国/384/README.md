@@ -124,7 +124,7 @@
 </tr>
 <tr>
 <td><img src="images/shot_army_three_generals.jpg" alt="三将一军"><br><sub><b>三将一军</b>：慕容隆这支军里三员将领各带自己的六队——鲜卑掠骑兵、铁骑、鲜卑马弓手。</sub></td>
-<td><img src="images/shot_wedding_event.jpg" alt="慕容垂与段元妃"><br><sub>开局事件<b>「慕容垂与段元妃」</b>：史实上的夫妻开局即成婚；左侧是鲜卑马弓手的兵牌。</sub></td>
+<td><img src="images/shot_wedding_event.jpg" alt="慕容垂与段元妃"><br><sub>开局事件<b>「慕容垂与段元妃」</b>：史实上的夫妻开局即成婚。</sub></td>
 </tr>
 <tr>
 <td><img src="images/shot_diplomacy_map.jpg" alt="外交地图"><br><sub>燕王眼里的天下：邺城里的苻丕、洛阳的苻晖、背后的丁零翟斌、东边的谢玄——<b>四面皆敌</b>。</sub></td>
@@ -139,7 +139,7 @@
 <td><img src="images/shot_select_map.jpg" alt="选派系界面的地图"><br><sub>点「显示地图」：选中慕容垂时，地图按 384 年的疆域和他的敌友上色，各家的图钉都在自己 384 年的都城。</sub></td>
 </tr>
 <tr>
-<td><img src="images/shot_map_flags.jpg" alt="战役地图上的字旗"><br><sub>战役地图上的<b>字旗</b>：慕容垂的「燕」、邺城一线苻丕的「長樂」。</sub></td>
+<td><img src="images/shot_map_flags.jpg" alt="战役地图上的字旗"><br><sub>战役地图上的<b>字旗</b>：慕容垂的「燕」、邺城一线苻丕的「長樂」、丁零翟斌的「翟」。</sub></td>
 <td><img src="images/shot_war_declared.jpg" alt="苻坚对翟斌宣战"><br><sub><b>苻坚对翟斌宣战</b>：幽州的王永也来求援，宗主只好向丁零宣战。外交事件里用的都是各人自己的立绘。</sub></td>
 </tr>
 <tr>
