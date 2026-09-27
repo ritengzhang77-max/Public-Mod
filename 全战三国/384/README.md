@@ -140,7 +140,7 @@
 </tr>
 <tr>
 <td><img src="images/shot_map_flags.jpg" alt="战役地图上的字旗"><br><sub>战役地图上的<b>字旗</b>：慕容垂的「燕」、邺城一线苻丕的「長樂」、丁零翟斌的「翟」。</sub></td>
-<td><img src="images/shot_war_declared.jpg" alt="苻坚对翟斌宣战"><br><sub><b>苻坚对翟斌宣战</b>：幽州的王永也来求援，宗主只好向丁零宣战。外交事件里用的都是各人自己的立绘。</sub></td>
+<td><img src="images/shot_siege_anding.jpg" alt="姚苌攻打安定"><br><sub><b>姚苌攻打安定</b>：第 3 回合姚苌来攻苻坚的临泾，战前界面上是两家 384 年的字旗「秦」「姚秦」和各自的立绘。</sub></td>
 </tr>
 <tr>
 <td><img src="images/shot_jin_imperial_court.jpg" alt="晋的三公九卿"><br><sub>晋一开局就是<b>三公九卿</b>的皇宫府署（这张是按等级自动补满时的样子；现在按史实只封史书载明 384 年在任的四人：录尚书事谢安、司徒司马道子、尚书令谢石、中书令王献之，其余由玩家自己封）。</sub></td>
