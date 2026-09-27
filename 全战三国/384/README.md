@@ -14,7 +14,7 @@
 <img alt="游戏：全面战争：三国" src="https://img.shields.io/badge/%E6%B8%B8%E6%88%8F-%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89%EF%BC%9A%E4%B8%89%E5%9B%BD-8B1A1A?style=for-the-badge">
 <img alt="战役底板：八王之乱 DLC" src="https://img.shields.io/badge/%E6%88%98%E5%BD%B9%E5%BA%95%E6%9D%BF-%E5%85%AB%E7%8E%8B%E4%B9%8B%E4%B9%B1_DLC-34495E?style=for-the-badge">
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996"><img alt="状态：已发布 · Steam 创意工坊" src="https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E5%B7%B2%E5%8F%91%E5%B8%83_%C2%B7_Steam_%E5%88%9B%E6%84%8F%E5%B7%A5%E5%9D%8A-1B7F3B?style=for-the-badge"></a>
-<img alt="版本 0.12.2" src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-0.12.2-555555?style=for-the-badge">
+<img alt="版本 0.13.0" src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-0.13.0-555555?style=for-the-badge">
 <br>
 <img alt="势力：22 个" src="https://img.shields.io/badge/%E5%8A%BF%E5%8A%9B-22_%E4%B8%AA-1E8449?style=for-the-badge">
 <img alt="历史人物：204 位" src="https://img.shields.io/badge/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9-204_%E4%BD%8D-B7950B?style=for-the-badge">
@@ -39,7 +39,7 @@
 </div>
 
 > [!TIP]
-> **已在 Steam 创意工坊发布（0.12.2，2026-09-27 更新）：[订阅「384 · 淝水之后 —— 十六国剧本」](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)。**
+> **已在 Steam 创意工坊发布（0.13.0，2026-09-27 更新）：[订阅「384 · 淝水之后 —— 十六国剧本」](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)。**
 > 需要《八王之乱》DLC；玩的时候开着 Steam。订阅后在启动器里勾选，新建战役选「淝水之后（384 年）」就能玩；不依赖任何其他 Mod。
 
 ### ▶ 一分钟看懂
@@ -439,7 +439,7 @@ timeline
 
 ## 🚧 开发状态
 
-**已发布：[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)，版本 0.12.2（2026-09-27 更新，0.11.0 首发于 2026-09-26）。** 0.11.0 创意工坊下载的那一份在游戏里测过：只开这一个 Mod、和一整套常用 Mod 一起开，都能正常开局、进到第 2 回合；0.12.2 只开这一个 Mod 开局到第 2 回合测过，创意工坊上的文件和测过的是同一个。
+**已发布：[Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3808594996)，版本 0.13.0（2026-09-27 更新，0.11.0 首发于 2026-09-26）。** 0.13.0 在游戏里测过：一份 0.12.2 的旧存档换上新版能读、能招新兵、名器直接显示新名字，连过三回合无错误；新开一局和一整套常用 Mod 一起开都正常。 0.11.0 创意工坊下载的那一份在游戏里测过：只开这一个 Mod、和一整套常用 Mod 一起开，都能正常开局、进到第 2 回合；0.12.2 只开这一个 Mod 开局到第 2 回合测过，创意工坊上的文件和测过的是同一个。
 
 | | 内容 |
 |---|---|
@@ -464,6 +464,7 @@ timeline
 | ✅ 已完成 | 0.10.0 锦囊（当时叫大招）“势”：召兵（选城出兵）、招贤、招降、火攻、休整、名器、外交，每家一到两个；开局 10 点、上限 100；「势」窗口改版：能不能发动、冷却几回合、生效几回合一眼看清 |
 | ✅ 已完成 | 0.11.0 史实事件 8 件（385–398 年），动到已有势力的都先问玩家；「势」窗口里可设一律按史实 / 一律不发生 |
 | ✅ 已完成 | 0.12.2「势」里的大招改名「锦囊」；名将的主动招牌技一出场就有，不用花技能点；AI 势力里的名器物归原主 |
+| ✅ 已完成 | 0.13.0 特种兵 34 种、22 家可招（羽林郎、铁锁连马、北府兵、长生人……每支有史书名号和出处，只有史实上有这支兵的势力招得到）；22 位主要将领的开局部曲带上自己的特种兵；名器 57 件改名、14 件新分配（淝水剑、北府铠、死休铠、太元剑……），谋士文臣的配饰改成本人典故（东山棋局、王猛遗表、金刀、檀公三十六策……）。旧档可继续 |
 | 🔧 进行中 | 叛军按秦岭—淮河分为「江南盗」与「流民坞帅」（数据已改，还没在游戏里碰上叛乱验证）；藩镇摊牌时由脚本宣布独立（逻辑已测，还没在游戏里等到摊牌） |
 | 🔧 进行中 | 数值与经济平衡 |
 | 📝 还没做 | 其余 180 人的专属技能树和武将技（目前用本职业的技能树） |
